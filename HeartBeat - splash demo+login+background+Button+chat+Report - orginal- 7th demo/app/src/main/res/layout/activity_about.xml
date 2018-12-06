@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.heartbeat.MainActivity">
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="115dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="Md Jahidul Hossain"
+        android:textSize="22dp" />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="119dp"
+        android:layout_marginTop="145dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="- 1320349042"
+        android:textSize="22dp" />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="186dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="Zadid Ahsan Nabi"
+        android:textSize="22dp" />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="119dp"
+        android:layout_marginTop="217dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="- 1410396442"
+        android:textSize="22dp" />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="255dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="Tanvir Mahtab"
+        android:textSize="22dp" />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="119dp"
+        android:layout_marginTop="287dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="- 1410311042"
+        android:textSize="22dp" />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="325dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="Abdul Ahad Khan"
+        android:textSize="22dp" />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="119dp"
+        android:layout_marginTop="355dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="- 1410310642"
+        android:textSize="22dp" />
+
+
+
+</RelativeLayout>
